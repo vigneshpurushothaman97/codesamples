@@ -1,3 +1,5 @@
+//Q: https://leetcode.com/problems/trapping-rain-water/
+
 class TrappingRainWater {
     public int trap(int[] height) {
         int l = 0; //left index
