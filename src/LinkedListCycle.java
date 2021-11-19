@@ -52,7 +52,7 @@ class LinkedListcycle {
     }
 }
 
-//Time Complexity is O(n)
+//Time Complexity is O(n). Iterting over the nodes
 //Space Complexity is O(1)
 
 //Logic:
